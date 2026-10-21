@@ -20,5 +20,5 @@ An interactive Streamlit-based web application for simulating, tuning, and compa
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/dc-motor-classical-controllers.git](https://github.com/your-username/dc-motor-classical-controllers.git)
-   cd dc-motor-classical-controllers
+   git clone [https://github.com/jayanadvaith-bot/Dc-motor-control-simulation.git](https://github.com/jayanadvaith-bot/Dc-motor-control-simulation.git)
+   cd Dc-motor-control-simulation
